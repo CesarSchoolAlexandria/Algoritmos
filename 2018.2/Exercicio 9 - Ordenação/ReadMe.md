@@ -1,0 +1,1 @@
+## Implementar os algoritmos de Ordenação em C e verificar a velocidade com que eles ordenam uma lista
